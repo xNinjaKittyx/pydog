@@ -16,3 +16,10 @@ dog.get_subbreed_image('spaniel', 'japanese')
 dog.get_random_image()
 dog.get_random_image(breed_name='affenpinscher')
 dog.get_random_image(breed_name='spaniel', sub_breed_name='japanese')
+
+```
+
+# Installation
+```
+pip install -U git+"https://github.com/xNinjaKittyx/pydog.git"
+```
