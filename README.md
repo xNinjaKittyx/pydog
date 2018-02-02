@@ -1,5 +1,5 @@
 # PyDog
-Python API Wrapper for PyDog
+Python API Wrapper for https://dog.ceo/dog-api/
 
 # Usage
 ```Python
